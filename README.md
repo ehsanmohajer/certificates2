@@ -1,4 +1,4 @@
-![Certificate Screenshot](Screenshot 2025-02-10 160611 (1).png)
+![Certificate Screenshot](Screenshot%202025-02-10%20160611%20(1).png)
 # 🎓 Finland MOOC: Introduction to AI - Aalto University  
 
 I’m excited to share that I have successfully completed the **Finland MOOC: Introduction to AI**, a course by **Aalto University** that covers the fundamentals of **Artificial Intelligence, Machine Learning, Neural Networks, and Ethical AI applications**.  
